@@ -1,0 +1,10 @@
+{
+    "type": "node",
+    "request": "launch",
+    "name": "8-loops",
+    "skipFiles": [
+        "<node_internals>/**"
+    
+    ],
+    "program": "${workspaceFolder}\\8-loops.js",
+    }
